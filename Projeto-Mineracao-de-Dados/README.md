@@ -16,7 +16,6 @@ Os CSVs não estão no repositório. Detalhes da fonte em fontes_dados.md.
 - Apresentação: pasta apresentacao/
 - Relatório final: pasta relatorio/
 - Códigos: pasta notebooks/ (01_exploracao, 02_agrupamento, 03_regras_associacao)
-- Figuras geradas: pasta figuras/
 
 ## Como executar
 1. Instale as dependências: pip install -r requirements.txt
